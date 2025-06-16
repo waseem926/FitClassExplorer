@@ -41,3 +41,9 @@ n
 Papp/src/main/java/com/example/fitclassexplorer/ui/theme/screens/LoadingScreen.kt,1\5\15ef42e7b3750979a1983fda405783880acf0505
 y
 Iapp/src/main/java/com/example/fitclassexplorer/data/FitnessClassDetail.kt,4\3\431da689d093a728f07d716a9bd300c435b19cbb
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+w
+G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
+Å
+Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
