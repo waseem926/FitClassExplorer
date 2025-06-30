@@ -47,3 +47,9 @@ w
 G.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,b\4\b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3
 Å
 Q.idea/sonarlint/securityhotspotstore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d,1\0\10a03f31c4dce92cb371e761ce9429428bb6c176
+r
+Bapp/src/main/java/com/example/fitclassexplorer/data/QuickAction.kt,e\1\e132fca1a86d35f97e2288e283c1ae4986781edd
+p
+@app/src/main/java/com/example/fitclassexplorer/data/Promotion.kt,1\9\19542975ab4c73d179b0d3eb5a0c9b9200bb2a03
+\
+,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
